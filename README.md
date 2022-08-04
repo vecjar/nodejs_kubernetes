@@ -1,2 +1,2 @@
-# Deployed Node.js application to a Kubernetes cluster.
+# Deployed a Node.js application to a Kubernetes cluster.
 
