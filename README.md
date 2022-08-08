@@ -2,8 +2,8 @@
 
 # Section 1 Building 
 
--Created a GitHub Repo, cloned and studied code to understand the project structure.
--Updated the Java Script with my own info.
+- Created a GitHub Repo, cloned and studied code to understand the project structure.
+- Updated the Java Script with my own info.
 
 # Section 2: Docker
 
