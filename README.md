@@ -13,7 +13,7 @@
 - Tested docker image localy using my ip.
 
 
-# Section 3: Minikube
+# Section 3: Kubernetes
 
 - Started minikube with hyperV.
 - Made sure kube was up and running along with the cluster.
